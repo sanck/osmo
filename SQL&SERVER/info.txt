@@ -1,0 +1,10 @@
+SERVER
+
+Host: 184.168.194.60:1433
+Database name: osmo
+User name: osmo
+Password: osmo!123
+
+ftp://osmo.d-soluciones.com
+usuario: osmo
+pass: prueba!123
